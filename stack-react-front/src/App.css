@@ -1,0 +1,11 @@
+.view-item {
+  width: 80px;
+}
+
+textarea {
+  resize: none !important;
+}
+
+.bg-yellow{
+  background-color: #FDF7E4;
+}
